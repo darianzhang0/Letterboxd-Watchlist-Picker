@@ -21,3 +21,8 @@ The flags that can be set are:
 ```
 python3 console.py -wsbr -u davvoint north778
 ```
+Note: The below images only show a part of the command line output and HTML page
+
+![Command Line](Example/Command_Line.png)
+
+![HTML Page](Example/HTML_Page.png)
