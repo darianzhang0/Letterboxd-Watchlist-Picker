@@ -19,10 +19,10 @@ The flags that can be set are:
 
 ## Example Run
 ```
-python3 console.py -wsbr -u davvoint north778
+python3 console.py -wsbr -u davvoint north778 baconboss
 ```
 Note: The below images only show a part of the command line output and HTML page
 
-![Command Line](Example/Command_Line.png)
+![Command Line](Example/Command_Line_3_Users.png)
 
-![HTML Page](Example/HTML_Page.png)
+![HTML Page](Example/HTML_Page_3_Users.png)
